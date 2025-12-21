@@ -1,0 +1,26 @@
+## 해당 내용은 git에 올라가지 않음
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Appium / Test artifacts
+screenshots/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db

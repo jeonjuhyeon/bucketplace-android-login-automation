@@ -6,6 +6,7 @@ Python과 Appium을 활용하여 로그인 주요 시나리오를 자동화 테�
 
 ## 2. 자동화 환경 선택 이유
 [Android 선택 사유]
+
 개인 개발 환경상 macOS 및 iOS 실기기를 보유하고 있지 않아, 
 Android Emulator 기반의 Appium 자동화 환경이 가장 현실적인 선택지라 판단하였다.
 또한 Android Emulator 환경은 과제 수행 및 반복 실행 시 비교적 안정적인 테스트 환경을 제공할 수 있어,
